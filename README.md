@@ -7,9 +7,9 @@ Documentation for the ISS-Blender seminar
 
 - [Geometry nodes](Lessons/GeometryNodes)
 
-  - [Overview](0_overview.md)
-  - [Transforms](1_transforms.md)
-  - [Mesh modification](2_mesh_modify.md)
-  - [Curve meshes](3_curves.md)
+  - [Overview](Lessons/GeometryNodes0_overview.md)
+  - [Transforms](Lessons/GeometryNodes1_transforms.md)
+  - [Mesh modification](Lessons/GeometryNodes2_mesh_modify.md)
+  - [Curve meshes](Lessons/GeometryNodes3_curves.md)
   
-  
+
