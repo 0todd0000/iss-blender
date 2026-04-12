@@ -1,6 +1,6 @@
-# Geometry Nodes:   Overview
+# GN Overview
 
-Geometry nodes are graphical programming units that modify geometry.
+Geometry nodes (GN) are graphical programming units that modify geometry.
 
 This tutorial explains the basics of geometry nodes.  It is a simplified version of the [excellent tutorial](#excellenttutorial) described below.
 
