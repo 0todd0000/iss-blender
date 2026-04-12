@@ -22,29 +22,24 @@ Launch Blender and select the Geometry Nodes workspace.
 
 Select "New" to create a new Geometry Nodes modifier:
 
-
-
 <center>
     <img src="ss/gn_workspace_init.jpg" alt="image" width="1000"/>
+    <br>
+		<br>
+		<br>
 </center>
-<br>
-<br>
-<br>
+
 
 After creating the geometry nodes modifier you will two nodes: an input node and an output node.
 
 Initially the input geometry (`Group Input`) is sent directly to the output geometry (`Group Output`).
 
-
-
 <center>
     <img src="ss/gn_workspace_new.jpg" alt="image" width="1000"/>
     <br>
-    <em>A new geometry nodes modfier simply sends input geometry to output geometry.</em>
+		<br>
+		<br>
 </center>
-<br>
-<br>
-<br>
 
 
 
@@ -57,19 +52,19 @@ Use <kbd>CTRL</kbd> + two-finger swipe UP to zoom in.
 
 <center>
     <img src="ss/gn_zoom_in.jpg" alt="image" width="600"/>
+    <br>
+		<br>
+		<br>
 </center>
-<br>
-<br>
-<br>
 
 Use <kbd>CTRL</kbd> + two-finger swipe DOWN to zoom out.
 
 <center>
     <img src="ss/gn_zoom_out.jpg" alt="image" width="600"/>
+    <br>
+		<br>
+		<br>
 </center>
-<br>
-<br>
-<br>
 
 Just like in the 3D View, you can use the <kbd>G</kbd> key to translate nodes.
 
@@ -78,12 +73,10 @@ Select one of the nodes, press <kbd>G</kbd> and drag the mouse around. You will 
 <center>
     <img src="ss/gn_move.jpg" alt="image" width="600"/>
     <br>
-    <em>Zoom out.</em>
+    <br>
+		<br>
 </center>
 
-<br>
-<br>
-<br>
 
 
 
@@ -93,7 +86,9 @@ Select one of the nodes, press <kbd>G</kbd> and drag the mouse around. You will 
 
 # Add a transform node
 
-From the menu in the Geometry Nodes Editor select:
+The "Add" menu in the Geometry Nodes Editor can be used to add a variety of geometry nodes.
+
+From the Add menu select:
 
 ```
 Add.. Geometry.. Operations.. Transform Geometry
@@ -103,12 +98,10 @@ Add.. Geometry.. Operations.. Transform Geometry
 <center>
     <img src="ss/transform0.jpg" alt="image" width="600"/>
     <br>
-    <em>The "Add" menu can be used to add a variety of nodes.</em>
+    <br>
+		<br>
 </center>
 
-<br>
-<br>
-<br>
 
 
 Drop the Transform Geometry node between the input and output nodes.
@@ -118,12 +111,12 @@ If you drop the node close to the existing connection between the input and outp
 <center>
     <img src="ss/transform1.jpg" alt="image" width="600"/>
     <br>
-    <em>Connections between the input, transform and output nodes.</em>
+    <br>
+    <br>
+</em>
 </center>
 
-<br>
-<br>
-<br>
+
 
 # Adjust node values
 
@@ -133,14 +126,11 @@ Adjust the X value in the Transform Geometry node to a new value like 5.
 
 Note that the selected object will transform when you change values in the Transform Geometry node.
 
-
+Changing node parameters generally changes the output geometry
 
 <center>
     <img src="ss/transform2.jpg" alt="image" width="600"/>
     <br>
-    <em>Changing node parameters will change the output geometry</em>
+    <br>
+    <br>
 </center>
-
-<br>
-<br>
-<br>
