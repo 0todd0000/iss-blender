@@ -1,4 +1,4 @@
-# Curves
+# Curve meshes
 
 Curves are useful ways to model long, irregular shapes like branches and vines. 
 
@@ -319,7 +319,6 @@ Add.. Curve.. Primitives.. Curve Circle
     <br>
     <br>
 </center>
-
 
 
 
