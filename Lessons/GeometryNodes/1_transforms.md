@@ -11,16 +11,12 @@ The most basic way to use geometry nodes (GN) is to transform objects.
 
 Launch Blender and select the Geometry Nodes workspace. 
 
-
-
 <center>
     <img src="ss/gn_workspace.jpg" alt="image" width="1000"/>
     <br>
-    <em>Select the "Geometry Nodes" workspace.</em>
+		<br>
+		<br>
 </center>
-<br>
-<br>
-<br>
 
 
 
@@ -30,8 +26,6 @@ Select "New" to create a new Geometry Nodes modifier:
 
 <center>
     <img src="ss/gn_workspace_init.jpg" alt="image" width="1000"/>
-    <br>
-    <em>Initial layout of the Geometry Nodes workspace.</em>
 </center>
 <br>
 <br>
@@ -39,7 +33,7 @@ Select "New" to create a new Geometry Nodes modifier:
 
 After creating the geometry nodes modifier you will two nodes: an input node and an output node.
 
-Initially the input geometry is sent directly to the output geometry.
+Initially the input geometry (`Group Input`) is sent directly to the output geometry (`Group Output`).
 
 
 
