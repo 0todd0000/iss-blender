@@ -63,7 +63,6 @@ Use <kbd>CTRL</kbd> + two-finger swipe UP to zoom in.
 
 <center>
     <img src="ss/gn_zoom_in.jpg" alt="image" width="600"/>
-    <em>Zoom in.</em>
 </center>
 <br>
 <br>
@@ -73,7 +72,6 @@ Use <kbd>CTRL</kbd> + two-finger swipe DOWN to zoom out.
 
 <center>
     <img src="ss/gn_zoom_out.jpg" alt="image" width="600"/>
-    <em>Zoom out.</em>
 </center>
 <br>
 <br>
