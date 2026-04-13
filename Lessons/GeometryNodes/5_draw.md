@@ -1,4 +1,4 @@
-# Draw new vines / branches
+# Draw geometry
 
 This mini-tutorial draws new vines branches using the previously created geometry nodes.
 
