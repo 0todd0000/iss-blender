@@ -5,15 +5,12 @@ Documentation for the ISS-Blender seminar
 
 # Lessons
 
-- [Geometry nodes](Lessons/GeometryNodes)
 
+### [Geometry nodes](Lessons/GeometryNodes)
 
-Goal: use geometry nodes to create vines / branches and leaves.
+<img src="./Lessons/GeometryNodes/ss/leaves_render.jpg" alt="image" width="300"/>
 
-<center>
-    <img src="./Lessons/GeometryNodes/ss/leaves_render.jpg" alt="image" width="400"/>
-    <br>
-</center>
+Use geometry nodes to create vines / branches and leaves.
 
   - [Overview](Lessons/GeometryNodes/0_overview.md)
   - [Transforms](Lessons/GeometryNodes/1_transforms.md)
