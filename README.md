@@ -11,7 +11,7 @@ Documentation for the ISS-Blender seminar
 Goal: use geometry nodes to create vines / branches and leaves.
 
 <center>
-    <img src="ss/leaves_render.jpg" alt="image" width="400"/>
+    <img src="./Lessons/GeometryNodes/ss/leaves_render.jpg" alt="image" width="400"/>
     <br>
 </center>
 
