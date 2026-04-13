@@ -222,8 +222,12 @@ Add.. Utilities.. Random Value
 
 - Change the `Random Value` type from "Float" to "Vector"
 - Connect `RandomValue.Value` to `InstanceOnPoints.Rotation`
-- Adjust the Z rotation range to (0, 6.28)  (i.e., Min=0, Max=6.28) (i.e., 0 to 360 deg)
+- Adjust the rotation range (Min, Max) to:
+     - X: (-0.5, 0.1)
+     - Y: (-0.5, 0.5)
+     - Z: (0, 6.28)  (i.e., 0 to 360 deg)
 
+Optionally adjust the rotation ranges to different values your liking.
 
 
 <center>
@@ -235,6 +239,20 @@ Add.. Utilities.. Random Value
 
 
 
+# Join geometries
+
+The current output node receives only leaf geometry as the input.
+
+To re-add the curve geometry, add a `Join Geometry` node:
+
+```
+Add.. Geometry.. Join Geometry
+```
+
+- Connect the `Curve to Mesh` output to the `Join Geometry` input
+- Also ensure that the `Instance on Points` output is connected to the `Join Geometry` input
+- Connect the `Join Geometry` output to the `Group Output` node
+
 
 
 <center>
@@ -245,7 +263,7 @@ Add.. Utilities.. Random Value
 </center>
 
 
-
+The final geometry nodes modifier should look like this:
 
 
 <center>
@@ -256,6 +274,8 @@ Add.. Utilities.. Random Value
 </center>
 
 
+
+In preparation for the next tutorial return to the default "Layout" workspace.
 
 
 
