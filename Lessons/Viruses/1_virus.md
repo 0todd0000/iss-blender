@@ -107,10 +107,16 @@ Add.. Mesh.. Cylinder
 </center>
 
 
-
 Press the "X" on the navigation axes to change the view to the YZ plane.
 
-Press the X-ray button.
+Move the cylinder away from the sphere.
+
+```markdown
+> [!IMPORTANT]
+> Press the X-ray button.
+```
+
+
 
 
 <center>
