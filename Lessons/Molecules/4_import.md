@@ -164,10 +164,8 @@ Find the Caffeine object.
 
 
 
-```
 > [!NOTE]
 > If you selected a different atom above (i.e., before joining the geometry objects together) the "Caffeine" object may appear in a different place in the .pdb collection.
-```
 
 
 
