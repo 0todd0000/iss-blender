@@ -86,6 +86,7 @@ Verify that the sphere is shaded smoothly in the 3D Viewport.
     <br>
     <br>
 </center>
+
 # Create spike
 
 A virus spike protein can be modeled as a modified cylinder.
