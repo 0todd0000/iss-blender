@@ -391,11 +391,11 @@ However, notice that the spikes are offset from the membrane surface.
 </center>
 
 
-Select the spike and fo into Edit mode.
+Select the spike and enter Edit mode.
 
 Select <kbd>A</kbd> to select all vertices.
 
-Press <kbd>G</kbd> then <kbd>Y</kbd> and drage the spike until that it is close to the global origin (0,0,0).
+Press <kbd>G</kbd> then <kbd>Y</kbd> and drag the spike until that it is close to the global origin (0,0,0).
 
 <center>
     <img src="ss/vr31.jpg" alt="image" width="1000"/>
