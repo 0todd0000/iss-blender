@@ -13,7 +13,7 @@ def resize(fpath, quality=85, factor=0.6):
 
 dir0   = os.path.expanduser('~/Desktop')
 fpaths = sorted( glob.glob( os.path.join(dir0, 'Screenshot*.jpg') ) )
-prefix = 'im'
+prefix = 'vr'
 for i,fpath in enumerate(fpaths):
     fpath1 = os.path.join(dir0, f'{prefix}{i:02d}.jpg')
     os.rename(fpath, fpath1)

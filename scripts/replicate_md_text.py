@@ -10,8 +10,8 @@ s = '''aaa
 </center>
 '''
 
-n = 32
-pref = 'im'
+n = 36
+pref = 'vr'
 for i in range(n):
     ss = s.replace('xxx.jpg', f'{pref}{i:02d}.jpg')
     print( ss )
