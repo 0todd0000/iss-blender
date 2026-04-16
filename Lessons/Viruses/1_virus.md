@@ -111,10 +111,8 @@ Press the "X" on the navigation axes to change the view to the YZ plane.
 
 Move the cylinder away from the sphere.
 
-```markdown
 > [!IMPORTANT]
 > Press the X-ray button.
-```
 
 
 
