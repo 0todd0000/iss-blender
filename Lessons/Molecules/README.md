@@ -15,3 +15,12 @@ The final goal of this tutorial is to produce a colored visualization of a molec
 
 
 
+Table of Contents:
+
+- [Create molecule geometry in Avogrado2](1_avogadro.md)
+- [Configure Blender](2_config.md)
+- [Basic molecular geometry visualization](3_import_basic.md)
+- [Fancier molecular geometry visualization](4_import.md)
+
+<br>
+<br>
