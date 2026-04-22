@@ -5,10 +5,10 @@ This tutorial uses geometry nodes to create vines / branches and leaves as depic
 <center>
     <img src="ss/leaves_render.jpg" alt="image" width="600"/>
     <br>
+    <br>
+		<br>
 </center>
-<br>
-<br>
-<br>
+
 
 Table of Contents:
 
@@ -19,6 +19,8 @@ Table of Contents:
 - [Draw geometry](5_draw.md)
 
 
+<br>
+<br>
 
 
 
