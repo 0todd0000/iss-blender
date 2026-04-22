@@ -28,7 +28,7 @@ Use Blender's geometry nodes to create vines and leaves.
 
 Use Blender to visualize molecules in Protein Databank Format.
 
-<a href="Lessons/Molecules"><img src="./Lessons/Molecules/ss/final_goal.jpg" alt="image" width="300"/></a>
+<a href="Lessons/Molecules"><img src="./Lessons/Molecules/ss/render.jpg" alt="image" width="300"/></a>
 <br>
 
 
